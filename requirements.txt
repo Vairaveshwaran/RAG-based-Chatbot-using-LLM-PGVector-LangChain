@@ -1,0 +1,17 @@
+# Core
+langchain>=0.2.0
+pgvector>=0.2.4
+psycopg2-binary>=2.9.9
+python-dotenv>=1.0.0
+
+# HuggingFace + Transformers
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+
+# Document loaders
+pypdf>=3.9.0
+python-docx>=0.8.11
+
+# Utilities
+tqdm>=4.65.0
